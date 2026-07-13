@@ -10,6 +10,7 @@ LG_Model is a beginner-friendly project that demonstrates the basics of **LangCh
 - Embedding Models
 - Streamlit Interface
 - Hugging Face Integration
+- Memory
 
 ## Project Structure
 
@@ -19,6 +20,7 @@ LG_Model/
 ├── EmbeddedModels/
 ├── LLM's/
 ├── Prompts/
+|-- Memory.py
 ├── .env
 ├── requirements.txt
 └── test.py
